@@ -5,7 +5,7 @@ Launch TeamViewer by selecting TeamViewer meeting ID.
 Select a TeamViewer meeting ID (such as `m39-073-658`) and click "TeamViewer" icon on the PopClip window.
 
 ## Install
-Double-click `TeamViewer.popclipextz` to install.
+Download and double-click [`TeamViewer.popclipextz`](https://github.com/selfiens/popclip.teamviewer/blob/master/TeamViewer.popclipextz) to install.
 
 ## Feedback
 Please use [issue tracker](https://github.com/selfiens/popclip.teamviewer/issues).
