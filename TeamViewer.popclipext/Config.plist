@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Version</key>
+  <integer>2</integer>
+  <key>Extension Name</key>
+  <string>TeamViewer</string>
+  <key>Extension Identifier</key>
+  <string>com.selfiens.popclip.extension.TeamViewer</string>
+  <key>Extension Description</key>
+  <string>TeamViewer session opener</string>
+
+  <key>Actions</key>
+  <array>
+    <dict>
+      <key>Shell Script File</key>
+      <string>runner.sh</string>
+      <key>Title</key>
+      <string>TeamViewer</string>
+      <key>Image File</key>
+      <string>icon.png</string>
+      <key>Regular Expression</key>
+      <string>^m\d{2}-\d{3}-\d{3}$</string>
+    </dict>
+  </array>
+</dict>
+</plist>
