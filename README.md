@@ -1,8 +1,8 @@
 # [TeamViewer](http://www.teamviewer.com/) extension for [PopClip](http://pilotmoon.com/popclip/)
-Launch TeamViewer by seleting TeamViewer meeting ID.
+Launch TeamViewer by selecting TeamViewer meeting ID.
 
 ## How to use
-Select a TeamViewer meeting ID (such as `m39-073-658`) and click "TeamViewer" icon.
+Select a TeamViewer meeting ID (such as `m39-073-658`) and click "TeamViewer" icon on the PopClip window.
 
 ## Install
 Double-click `TeamViewer.popclipextz` to install.
